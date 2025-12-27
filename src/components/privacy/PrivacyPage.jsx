@@ -160,7 +160,7 @@ export default function PrivacyPage() {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4">
               <a
-                href="/contact"
+                href="/support"
                 className="w-full sm:w-auto bg-gradient-to-r from-green-500 to-emerald-500 text-black px-6 sm:px-8 py-3 sm:py-4 rounded-xl font-black hover:from-green-400 hover:to-emerald-400 transition-all duration-300 shadow-[0_0_20px_rgba(74,222,128,0.3)] hover:scale-105 text-center"
               >
                 تماس با ما

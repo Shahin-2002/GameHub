@@ -14,7 +14,7 @@ import {
 export default function Footer() {
   const footerLinks = {
     about: [
-      { name: 'درباره ما', href: '/about' },
+      { name: 'درباره ما', href: '/aboutus' },
       { name: 'تماس با ما', href: '/contact' },
       { name: 'تیم ما', href: '/team' },
       { name: 'فرصت‌های شغلی', href: '/careers' },
